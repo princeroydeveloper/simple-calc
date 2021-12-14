@@ -1,7 +1,7 @@
 {
   "name": "simple-calc",
   "version": "0.1.0",
-  "homepage": "https://prince.bengalroys.com/simple-calc",
+  "homepage": "https://apps.prince.bengalroys.com/web/opensource-apps/simple-calc",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.7.0",
