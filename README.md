@@ -2,7 +2,7 @@
 # Simple Calc
 A simple calculator for your daily needs. Enjoy lightweight & simplicity. Based on React JS.
 ## Live Demo
-https://prince.bengalroys.com/simple-calc
+https://apps.prince.bengalroys.com/web/opensource-apps/simple-calc
 
   
 ## 🚀 My Other Apps
